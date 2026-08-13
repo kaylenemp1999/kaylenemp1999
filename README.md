@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Kaylene
 
-<!--
-**kaylenemp1999/kaylenemp1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an aspiring data analyst pursuing a Masters in Information Technology
+and I currently hold a bachelor's degree in Biochemistry and Molecular Biology. My background combines analytical problem-solving, business experience, and hands-on experience working with data.
 
-Here are some ideas to get you started:
+## Technical Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- SQL and PostgreSQL
+- Excel and Power Query
+- Tableau
+- R and SPSS
+- Data cleaning and validation
+- Statistical analysis and predictive modeling
+- ETL and data warehouse concepts
+
+## Featured Projects
+
+I am currently building a portfolio featuring projects in business
+intelligence, predictive analytics, and data management.
+
+## Contact
+
+- LinkedIn: www.linkedin.com/in/kaylene-patti
